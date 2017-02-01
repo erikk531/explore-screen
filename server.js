@@ -3,6 +3,9 @@ var bodyParser = require('body-parser');
 var dataCollector = require('./dataCollector');
 var app = express();
 app.use(bodyParser.json());
+app.use(function(req, res, next) {
+  res.header("Access-Control-Allow-Origin", "*");
+});
 
 app.post('/merchants', function(request, response) {
     var body = request.body;
