@@ -1,0 +1,23 @@
+{
+  "name": "explore-screen",
+  "version": "1.0.0",
+  "description": "Explore screen API server.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/erikk531/explore-screen.git"
+  },
+  "author": "Erik Koebke",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/erikk531/explore-screen/issues"
+  },
+  "homepage": "https://github.com/erikk531/explore-screen#readme",
+  "dependencies": {
+    "express": "^4.14.1"
+  }
+}
