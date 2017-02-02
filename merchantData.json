@@ -4,253 +4,253 @@
       "merchantName": "Whole Foods Market",
       "lat": 42.3620488,
       "lng": -71.06543549999999,
-      "avgBill": 81.76470588235294
+      "avgBill": "81.76"
     },
     "57cf75cea73e494d8675f044": {
       "merchantName": "Whole Foods Market",
       "lat": 42.34382099999999,
       "lng": -71.0871873,
-      "avgBill": 91.21428571428571
+      "avgBill": "91.21"
     },
     "57cf75cea73e494d8675f047": {
       "merchantName": "Whole Foods Market",
       "lat": 42.360995,
       "lng": -71.11393799999999,
-      "avgBill": 98.18181818181819
+      "avgBill": "98.18"
     },
     "57cf75cea73e494d8675f04b": {
       "merchantName": "Cosi",
       "lat": 42.3585157,
       "lng": -71.0561717,
-      "avgBill": 103.63636363636364
+      "avgBill": "103.64"
     },
     "57cf75cea73e494d8675f04e": {
       "merchantName": "Whole Foods Market",
       "lat": 42.3427971,
       "lng": -71.1404053,
-      "avgBill": 90.23076923076923
+      "avgBill": "90.23"
     },
     "57cf75cea73e494d8675f050": {
       "merchantName": "Morton's The Steakhouse",
       "lat": 42.3488146,
       "lng": -71.0407489,
-      "avgBill": 86.61538461538461
+      "avgBill": "86.62"
     },
     "57cf75cea73e494d8675f051": {
       "merchantName": "Whole Foods Market",
       "lat": 42.36806439999999,
       "lng": -71.1022777,
-      "avgBill": 97.33333333333333
+      "avgBill": "97.33"
     },
     "57cf75cea73e494d8675f055": {
       "merchantName": "Whole Foods Market",
       "lat": 42.38898309999999,
       "lng": -71.14160559999999,
-      "avgBill": 84.36363636363636
+      "avgBill": "84.36"
     },
     "57cf75cea73e494d8675f056": {
       "merchantName": "South End Open Market",
       "lat": 42.34444999999999,
       "lng": -71.064846,
-      "avgBill": 103.3
+      "avgBill": "103.30"
     },
     "57cf75cea73e494d8675f05e": {
       "merchantName": "Catalyst",
       "lat": 42.3630614,
       "lng": -71.0916051,
-      "avgBill": 120.84615384615384
+      "avgBill": "120.85"
     },
     "57cf75cea73e494d8675f05f": {
       "merchantName": "Angora Cafe",
       "lat": 42.3514724,
       "lng": -71.12184839999999,
-      "avgBill": 106.0909090909091
+      "avgBill": "106.09"
     },
     "57cf75cea73e494d8675f060": {
       "merchantName": "Costco Wholesale",
       "lat": 42.3967943,
       "lng": -71.0713707,
-      "avgBill": 88.375
+      "avgBill": "88.38"
     },
     "57cf75cea73e494d8675f065": {
       "merchantName": "Jacob Wirth Restaurant",
       "lat": 42.3511944,
       "lng": -71.0638939,
-      "avgBill": 130.5
+      "avgBill": "130.50"
     },
     "57cf75cea73e494d8675f06a": {
       "merchantName": "Market Basket",
       "lat": 42.3964744,
       "lng": -71.0423129,
-      "avgBill": 67.66666666666667
+      "avgBill": "67.67"
     },
     "57cf75cea73e494d8675f06b": {
       "merchantName": "Walmart",
       "lat": 42.448728,
       "lng": -70.96092999999999,
-      "avgBill": 103.25
+      "avgBill": "103.25"
     },
     "57cf75cea73e494d8675f06f": {
       "merchantName": "Night Shift Brewing",
       "lat": 42.40597069999999,
       "lng": -71.067886,
-      "avgBill": 98.6
+      "avgBill": "98.60"
     },
     "57cf75cea73e494d8675f074": {
       "merchantName": "Boston College Club",
       "lat": 42.35494480000001,
       "lng": -71.0558971,
-      "avgBill": 105
+      "avgBill": "105.00"
     },
     "57cf75cea73e494d8675f083": {
       "merchantName": "Chipotle Mexican Grill",
       "lat": 42.3575336,
       "lng": -71.0583822,
-      "avgBill": 85.875
+      "avgBill": "85.88"
     },
     "57cf75cea73e494d8675f085": {
       "merchantName": "Yamato Japanese Restaurant",
       "lat": 42.3406787,
       "lng": -71.1517563,
-      "avgBill": 85.57142857142857
+      "avgBill": "85.57"
     },
     "57cf75cea73e494d8675f086": {
       "merchantName": "IHOP",
       "lat": 42.3586184,
       "lng": -71.1572752,
-      "avgBill": 131.71428571428572
+      "avgBill": "131.71"
     },
     "57cf75cea73e494d8675f08f": {
       "merchantName": "Trader Joe's",
       "lat": 42.29252,
       "lng": -71.234927,
-      "avgBill": 123.21428571428571
+      "avgBill": "123.21"
     },
     "57cf75cea73e494d8675f090": {
       "merchantName": "Tupelo Restaurant",
       "lat": 42.37341289999999,
       "lng": -71.0971634,
-      "avgBill": 100.5
+      "avgBill": "100.50"
     },
     "57cf75cea73e494d8675f094": {
       "merchantName": "Empire Restaurant and Lounge",
       "lat": 42.35298119999999,
       "lng": -71.04553159999999,
-      "avgBill": 100.9
+      "avgBill": "100.90"
     },
     "57cf75cea73e494d8675f09a": {
       "merchantName": "Flour Bakery + Cafe",
       "lat": 42.3609993,
       "lng": -71.09662759999999,
-      "avgBill": 98.77777777777777
+      "avgBill": "98.78"
     },
     "57cf75cea73e494d8675f0a8": {
       "merchantName": "Panera Bread",
       "lat": 42.41309200000001,
       "lng": -71.233964,
-      "avgBill": 113.27272727272727
+      "avgBill": "113.27"
     },
     "57cf75cea73e494d8675f0aa": {
       "merchantName": "Samuel Adams",
       "lat": 42.31454550000001,
       "lng": -71.1032285,
-      "avgBill": 110.58333333333333
+      "avgBill": "110.58"
     },
     "57cf75cea73e494d8675f0b0": {
       "merchantName": "Marliave",
       "lat": 42.356872,
       "lng": -71.0602735,
-      "avgBill": 118.83333333333333
+      "avgBill": "118.83"
     },
     "57cf75cea73e494d8675f0b2": {
       "merchantName": "Flour Bakery",
       "lat": 42.351271,
       "lng": -71.0487826,
-      "avgBill": 95.7
+      "avgBill": "95.70"
     },
     "57cf75cea73e494d8675f0b7": {
       "merchantName": "Olive Garden",
       "lat": 42.3261759,
       "lng": -71.0630786,
-      "avgBill": 117.52380952380952
+      "avgBill": "117.52"
     },
     "57cf75cea73e494d8675f0b9": {
       "merchantName": "The Paramount",
       "lat": 42.3572892,
       "lng": -71.0701726,
-      "avgBill": 95.72727272727273
+      "avgBill": "95.73"
     },
     "57cf75cea73e494d8675f0c2": {
       "merchantName": "Sichuan's Garden",
       "lat": 42.3871794,
       "lng": -71.2017486,
-      "avgBill": 115.1875
+      "avgBill": "115.19"
     },
     "57cf75cea73e494d8675f0c3": {
       "merchantName": "Market Basket",
       "lat": 42.3807455,
       "lng": -71.1015812,
-      "avgBill": 93.07142857142857
+      "avgBill": "93.07"
     },
     "57cf75cea73e494d8675f0cb": {
       "merchantName": "Fogo de Chão Brazilian Steakhouse",
       "lat": 42.3487,
       "lng": -71.077083,
-      "avgBill": 128.53333333333333
+      "avgBill": "128.53"
     },
     "57cf75cea73e494d8675f0cc": {
       "merchantName": "Mooo Restaurant",
       "lat": 42.3583772,
       "lng": -71.0619584,
-      "avgBill": 85.07142857142857
+      "avgBill": "85.07"
     },
     "57cf75cea73e494d8675f0ce": {
       "merchantName": "Trader Joe's",
       "lat": 42.35823500000001,
       "lng": -71.11421299999999,
-      "avgBill": 97.33333333333333
+      "avgBill": "97.33"
     },
     "57cf75cea73e494d8675f0d1": {
       "merchantName": "The Salty Pig",
       "lat": 42.3468805,
       "lng": -71.07612069999999,
-      "avgBill": 107.9
+      "avgBill": "107.90"
     },
     "57cf75cea73e494d8675f0d2": {
       "merchantName": "Star Market",
       "lat": 42.3619648,
       "lng": -71.09965559999999,
-      "avgBill": 104.05555555555556
+      "avgBill": "104.06"
     },
     "57cf75cea73e494d8675f0d4": {
       "merchantName": "Mike's Pastry",
       "lat": 42.3641794,
       "lng": -71.0542111,
-      "avgBill": 99.6
+      "avgBill": "99.60"
     },
     "57cf75cea73e494d8675f0d5": {
       "merchantName": "Walmart",
       "lat": 42.2361802,
       "lng": -70.9862789,
-      "avgBill": 99.35714285714286
+      "avgBill": "99.36"
     },
     "57cf75cea73e494d8675f0d6": {
       "merchantName": "Trader Joe's",
       "lat": 42.34183979999999,
       "lng": -71.1203772,
-      "avgBill": 85.85714285714286
+      "avgBill": "85.86"
     },
     "57cf75cea73e494d8675f0e5": {
       "merchantName": "Atlantic Fish Company",
       "lat": 42.3492534,
       "lng": -71.0811514,
-      "avgBill": 104.5
+      "avgBill": "104.50"
     },
     "57cf75cea73e494d8675f0eb": {
       "merchantName": "Pavement Coffeehouse",
       "lat": 42.3468588,
       "lng": -71.0884142,
-      "avgBill": 92.17647058823529
+      "avgBill": "92.18"
     }
   },
   "out": {
@@ -258,307 +258,307 @@
       "merchantName": "Beacon Hill Hotel & Bistro",
       "lat": 42.3569241,
       "lng": -71.0696907,
-      "avgBill": 104.23529411764706
+      "avgBill": "104.24"
     },
     "57cf75cea73e494d8675f033": {
       "merchantName": "The Langham, Boston",
       "lat": 42.35648199999999,
       "lng": -71.0545009,
-      "avgBill": 97.81818181818181
+      "avgBill": "97.82"
     },
     "57cf75cea73e494d8675f036": {
       "merchantName": "Renaissance Boston Waterfront Hotel",
       "lat": 42.34804659999999,
       "lng": -71.0390674,
-      "avgBill": 111.66666666666667
+      "avgBill": "111.67"
     },
     "57cf75cea73e494d8675f041": {
       "merchantName": "Russell House Tavern",
       "lat": 42.3731082,
       "lng": -71.1194276,
-      "avgBill": 113.91666666666667
+      "avgBill": "113.92"
     },
     "57cf75cea73e494d8675f04a": {
       "merchantName": "Del Frisco's Double Eagle Steak House",
       "lat": 42.348919,
       "lng": -71.0384813,
-      "avgBill": 89.57142857142857
+      "avgBill": "89.57"
     },
     "57cf75cea73e494d8675f04f": {
       "merchantName": "Green Street",
       "lat": 42.36459949999999,
       "lng": -71.1041688,
-      "avgBill": 105.83333333333333
+      "avgBill": "105.83"
     },
     "57cf75cea73e494d8675f052": {
       "merchantName": "Legal Sea Foods",
       "lat": 42.359573,
       "lng": -71.051011,
-      "avgBill": 132.5
+      "avgBill": "132.50"
     },
     "57cf75cea73e494d8675f053": {
       "merchantName": "The Brahmin American Cuisine & Cocktails",
       "lat": 42.3485455,
       "lng": -71.0731718,
-      "avgBill": 106.41666666666667
+      "avgBill": "106.42"
     },
     "57cf75cea73e494d8675f054": {
       "merchantName": "Trade",
       "lat": 42.35362610000001,
       "lng": -71.0531852,
-      "avgBill": 115.6470588235294
+      "avgBill": "115.65"
     },
     "57cf75cea73e494d8675f05c": {
       "merchantName": "Neptune Oyster",
       "lat": 42.3632571,
       "lng": -71.0560079,
-      "avgBill": 92.75
+      "avgBill": "92.75"
     },
     "57cf75cea73e494d8675f064": {
       "merchantName": "Ruth's Chris Steak House",
       "lat": 42.358123,
       "lng": -71.05933399999999,
-      "avgBill": 118.81818181818181
+      "avgBill": "118.82"
     },
     "57cf75cea73e494d8675f066": {
       "merchantName": "Coppa",
       "lat": 42.343427,
       "lng": -71.068683,
-      "avgBill": 96.15384615384616
+      "avgBill": "96.15"
     },
     "57cf75cea73e494d8675f067": {
       "merchantName": "The Q restaurant",
       "lat": 42.3518285,
       "lng": -71.0623949,
-      "avgBill": 96.27272727272727
+      "avgBill": "96.27"
     },
     "57cf75cea73e494d8675f068": {
       "merchantName": "House of Blues Boston",
       "lat": 42.347354,
       "lng": -71.095668,
-      "avgBill": 79.75
+      "avgBill": "79.75"
     },
     "57cf75cea73e494d8675f06d": {
       "merchantName": "Papa Razzi Metro",
       "lat": 42.4849109,
       "lng": -71.1891815,
-      "avgBill": 116.83333333333333
+      "avgBill": "116.83"
     },
     "57cf75cea73e494d8675f07a": {
       "merchantName": "Uni",
       "lat": 42.34860219999999,
       "lng": -71.08869469999999,
-      "avgBill": 104.17647058823529
+      "avgBill": "104.18"
     },
     "57cf75cea73e494d8675f07b": {
       "merchantName": "Storyville",
       "lat": 42.34823529999999,
       "lng": -71.0787527,
-      "avgBill": 121.9090909090909
+      "avgBill": "121.91"
     },
     "57cf75cea73e494d8675f07c": {
       "merchantName": "Jerry Remy's Seaport",
       "lat": 42.3489694,
       "lng": -71.038618,
-      "avgBill": 99.95833333333333
+      "avgBill": "99.96"
     },
     "57cf75cea73e494d8675f082": {
       "merchantName": "jm Curley",
       "lat": 42.35519499999999,
       "lng": -71.06236779999999,
-      "avgBill": 105.16666666666667
+      "avgBill": "105.17"
     },
     "57cf75cea73e494d8675f084": {
       "merchantName": "Rock Bottom Restaurant & Brewery",
       "lat": 42.35136549999999,
       "lng": -71.06533859999999,
-      "avgBill": 115.85714285714286
+      "avgBill": "115.86"
     },
     "57cf75cea73e494d8675f087": {
       "merchantName": "The Capital Grille",
       "lat": 42.4857749,
       "lng": -71.190995,
-      "avgBill": 108.625
+      "avgBill": "108.63"
     },
     "57cf75cea73e494d8675f08b": {
       "merchantName": "Grill 23 & Bar",
       "lat": 42.3494146,
       "lng": -71.0719714,
-      "avgBill": 111.4
+      "avgBill": "111.40"
     },
     "57cf75cea73e494d8675f08d": {
       "merchantName": "Lexx Restaurant",
       "lat": 42.4465613,
       "lng": -71.2256111,
-      "avgBill": 134.89473684210526
+      "avgBill": "134.89"
     },
     "57cf75cea73e494d8675f091": {
       "merchantName": "Union Oyster House",
       "lat": 42.361288,
       "lng": -71.0569082,
-      "avgBill": 114.9
+      "avgBill": "114.90"
     },
     "57cf75cea73e494d8675f093": {
       "merchantName": "Diva Indian Bistro",
       "lat": 42.3953198,
       "lng": -71.1221493,
-      "avgBill": 92.3
+      "avgBill": "92.30"
     },
     "57cf75cea73e494d8675f095": {
       "merchantName": "Legal Harborside",
       "lat": 42.3485617,
       "lng": -71.03791319999999,
-      "avgBill": 104.14285714285714
+      "avgBill": "104.14"
     },
     "57cf75cea73e494d8675f09d": {
       "merchantName": "Maggiano's Little Italy",
       "lat": 42.3509582,
       "lng": -71.0686788,
-      "avgBill": 95.73333333333333
+      "avgBill": "95.73"
     },
     "57cf75cea73e494d8675f0a3": {
       "merchantName": "Elephant & Castle",
       "lat": 42.3562477,
       "lng": -71.0574879,
-      "avgBill": 96.5
+      "avgBill": "96.50"
     },
     "57cf75cea73e494d8675f0a5": {
       "merchantName": "The Beehive",
       "lat": 42.3446855,
       "lng": -71.0714433,
-      "avgBill": 88.36842105263158
+      "avgBill": "88.37"
     },
     "57cf75cea73e494d8675f0a7": {
       "merchantName": "Silvertone Bar & Grill",
       "lat": 42.3570947,
       "lng": -71.0608826,
-      "avgBill": 94.86666666666666
+      "avgBill": "94.87"
     },
     "57cf75cea73e494d8675f0a9": {
       "merchantName": "Sidney's Grille",
       "lat": 42.36195310000001,
       "lng": -71.0999155,
-      "avgBill": 83.38888888888889
+      "avgBill": "83.39"
     },
     "57cf75cea73e494d8675f0ab": {
       "merchantName": "Eastern Standard",
       "lat": 42.3484972,
       "lng": -71.0961193,
-      "avgBill": 120.73333333333333
+      "avgBill": "120.73"
     },
     "57cf75cea73e494d8675f0b1": {
       "merchantName": "The Whiskey Priest",
       "lat": 42.35079990000001,
       "lng": -71.04279389999999,
-      "avgBill": 121.11111111111111
+      "avgBill": "121.11"
     },
     "57cf75cea73e494d8675f0bf": {
       "merchantName": "The Biltmore Bar & Grille",
       "lat": 42.3091638,
       "lng": -71.22112910000001,
-      "avgBill": 83.05882352941177
+      "avgBill": "83.06"
     },
     "57cf75cea73e494d8675f0c0": {
       "merchantName": "Canary Square",
       "lat": 42.319796,
       "lng": -71.11197,
-      "avgBill": 123.11111111111111
+      "avgBill": "123.11"
     },
     "57cf75cea73e494d8675f0c4": {
       "merchantName": "Cinderella's Bar and Restaurant",
       "lat": 42.3635242,
       "lng": -71.0995336,
-      "avgBill": 78.46666666666667
+      "avgBill": "78.47"
     },
     "57cf75cea73e494d8675f0ca": {
       "merchantName": "Umbria Prime",
       "lat": 42.35704670000001,
       "lng": -71.052796,
-      "avgBill": 114.58333333333333
+      "avgBill": "114.58"
     },
     "57cf75cea73e494d8675f0d3": {
       "merchantName": "Stephanie's On Newbury",
       "lat": 42.3502421,
       "lng": -71.07954529999999,
-      "avgBill": 100.63157894736842
+      "avgBill": "100.63"
     },
     "57cf75cea73e494d8675f0d9": {
       "merchantName": "Tavern In The Square",
       "lat": 42.35330309999999,
       "lng": -71.1326374,
-      "avgBill": 130.8
+      "avgBill": "130.80"
     },
     "57cf75cea73e494d8675f0dc": {
       "merchantName": "Lord Hobo",
       "lat": 42.3686959,
       "lng": -71.09496469999999,
-      "avgBill": 97.82352941176471
+      "avgBill": "97.82"
     },
     "57cf75cea73e494d8675f0dd": {
       "merchantName": "Cuchi Cuchi",
       "lat": 42.36340879999999,
       "lng": -71.0971644,
-      "avgBill": 128.07142857142858
+      "avgBill": "128.07"
     },
     "57cf75cea73e494d8675f0e1": {
       "merchantName": "Regina Pizzeria",
       "lat": 42.3654261,
       "lng": -71.0568787,
-      "avgBill": 95.36363636363636
+      "avgBill": "95.36"
     },
     "57cf75cea73e494d8675f0e3": {
       "merchantName": "The North Star",
       "lat": 42.3642297,
       "lng": -71.0608941,
-      "avgBill": 104.45454545454545
+      "avgBill": "104.45"
     },
     "57cf75cea73e494d8675f0e7": {
       "merchantName": "Cheers Boston",
       "lat": 42.35597739999999,
       "lng": -71.0711822,
-      "avgBill": 115.23076923076923
+      "avgBill": "115.23"
     },
     "57cf75cea73e494d8675f0e8": {
       "merchantName": "Island Creek Oyster Bar",
       "lat": 42.3486182,
       "lng": -71.09520119999999,
-      "avgBill": 94.06666666666666
+      "avgBill": "94.07"
     },
     "57cf75cea73e494d8675f0e9": {
       "merchantName": "Kings Boston",
       "lat": 42.347067,
       "lng": -71.0856579,
-      "avgBill": 104.08333333333333
+      "avgBill": "104.08"
     },
     "57cf75cea73e494d8675f0ea": {
       "merchantName": "Middle East Restaurant and Nightclub",
       "lat": 42.3637874,
       "lng": -71.10140109999999,
-      "avgBill": 85.33333333333333
+      "avgBill": "85.33"
     },
     "57cf75cea73e494d8675f0ed": {
       "merchantName": "Summer Shack",
       "lat": 42.3471098,
       "lng": -71.08550500000001,
-      "avgBill": 84.13333333333334
+      "avgBill": "84.13"
     },
     "57cf75cea73e494d8675f0f2": {
       "merchantName": "Not Your Average Joe's",
       "lat": 42.4843594,
       "lng": -71.1945961,
-      "avgBill": 96.8
+      "avgBill": "96.80"
     },
     "57cf75cea73e494d8675f0f7": {
       "merchantName": "Not Your Average Joe's",
       "lat": 42.2809976,
       "lng": -71.2370171,
-      "avgBill": 85.6923076923077
+      "avgBill": "85.69"
     },
     "57cf75cea73e494d8675f0f8": {
       "merchantName": "TGI Fridays",
       "lat": 42.333603,
       "lng": -71.104553,
-      "avgBill": 78.2
+      "avgBill": "78.20"
     }
   },
   "shop": {
@@ -566,205 +566,205 @@
       "merchantName": "Target",
       "lat": 42.36464629999999,
       "lng": -71.1571436,
-      "avgBill": 93.83333333333333
+      "avgBill": "93.83"
     },
     "57cf75cea73e494d8675f046": {
       "merchantName": "Target",
       "lat": 42.3990845,
       "lng": -71.07235750000001,
-      "avgBill": 96.66666666666667
+      "avgBill": "96.67"
     },
     "57cf75cea73e494d8675f048": {
       "merchantName": "AT&T",
       "lat": 42.32368750000001,
       "lng": -71.1662435,
-      "avgBill": 107.46666666666667
+      "avgBill": "107.47"
     },
     "57cf75cea73e494d8675f049": {
       "merchantName": "Target",
       "lat": 42.3763916,
       "lng": -71.0903828,
-      "avgBill": 108.05882352941177
+      "avgBill": "108.06"
     },
     "57cf75cea73e494d8675f04c": {
       "merchantName": "Best Buy",
       "lat": 42.40347989999999,
       "lng": -71.0680982,
-      "avgBill": 111.66666666666667
+      "avgBill": "111.67"
     },
     "57cf75cea73e494d8675f057": {
       "merchantName": "Hollister Co.",
       "lat": 42.3681372,
       "lng": -71.0765282,
-      "avgBill": 95.35714285714286
+      "avgBill": "95.36"
     },
     "57cf75cea73e494d8675f058": {
       "merchantName": "Forever 21",
       "lat": 42.3485363,
       "lng": -71.0868674,
-      "avgBill": 95.61538461538461
+      "avgBill": "95.62"
     },
     "57cf75cea73e494d8675f059": {
       "merchantName": "Prudential Center Sephora",
       "lat": 42.348521,
       "lng": -71.0822975,
-      "avgBill": 115.38461538461539
+      "avgBill": "115.38"
     },
     "57cf75cea73e494d8675f05a": {
       "merchantName": "Express - CambridgeSide Galleria",
       "lat": 42.3680341,
       "lng": -71.0766648,
-      "avgBill": 79.75
+      "avgBill": "79.75"
     },
     "57cf75cea73e494d8675f05b": {
       "merchantName": "Macy's",
       "lat": 42.3550175,
       "lng": -71.06054209999999,
-      "avgBill": 90.4
+      "avgBill": "90.40"
     },
     "57cf75cea73e494d8675f063": {
       "merchantName": "Old Navy",
       "lat": 42.3680484,
       "lng": -71.0757156,
-      "avgBill": 59.07692307692308
+      "avgBill": "59.08"
     },
     "57cf75cea73e494d8675f071": {
       "merchantName": "Boston Costume",
       "lat": 42.36591550000001,
       "lng": -71.0929477,
-      "avgBill": 121.86666666666666
+      "avgBill": "121.87"
     },
     "57cf75cea73e494d8675f076": {
       "merchantName": "Burlington Mall",
       "lat": 42.482054,
       "lng": -71.2137183,
-      "avgBill": 106.36363636363636
+      "avgBill": "106.36"
     },
     "57cf75cea73e494d8675f077": {
       "merchantName": "Patagonia Boston",
       "lat": 42.3482555,
       "lng": -71.0870187,
-      "avgBill": 69.66666666666667
+      "avgBill": "69.67"
     },
     "57cf75cea73e494d8675f07d": {
       "merchantName": "Marshalls",
       "lat": 42.3565225,
       "lng": -71.05925669999999,
-      "avgBill": 84.38888888888889
+      "avgBill": "84.39"
     },
     "57cf75cea73e494d8675f081": {
       "merchantName": "Marshalls",
       "lat": 42.350771,
       "lng": -71.0740361,
-      "avgBill": 75.4
+      "avgBill": "75.40"
     },
     "57cf75cea73e494d8675f08a": {
       "merchantName": "The North Face",
       "lat": 42.3484855,
       "lng": -71.0861547,
-      "avgBill": 97.44444444444444
+      "avgBill": "97.44"
     },
     "57cf75cea73e494d8675f096": {
       "merchantName": "J.Crew",
       "lat": 42.36812629999999,
       "lng": -71.076239,
-      "avgBill": 104.83333333333333
+      "avgBill": "104.83"
     },
     "57cf75cea73e494d8675f097": {
       "merchantName": "Marshalls",
       "lat": 42.3098671,
       "lng": -71.2160987,
-      "avgBill": 101.72727272727273
+      "avgBill": "101.73"
     },
     "57cf75cea73e494d8675f098": {
       "merchantName": "H&M",
       "lat": 42.35630269999999,
       "lng": -71.05880259999999,
-      "avgBill": 100.6
+      "avgBill": "100.60"
     },
     "57cf75cea73e494d8675f099": {
       "merchantName": "H&M",
       "lat": 42.350889,
       "lng": -71.0749799,
-      "avgBill": 86.38888888888889
+      "avgBill": "86.39"
     },
     "57cf75cea73e494d8675f09b": {
       "merchantName": "Club Monaco Prudential Center",
       "lat": 42.3484855,
       "lng": -71.0824415,
-      "avgBill": 62.357142857142854
+      "avgBill": "62.36"
     },
     "57cf75cea73e494d8675f0a0": {
       "merchantName": "Ann Taylor",
       "lat": 42.3471426,
       "lng": -71.0825182,
-      "avgBill": 112
+      "avgBill": "112.00"
     },
     "57cf75cea73e494d8675f0a2": {
       "merchantName": "Square One Mall",
       "lat": 42.4613135,
       "lng": -71.02801280000001,
-      "avgBill": 89.9
+      "avgBill": "89.90"
     },
     "57cf75cea73e494d8675f0ac": {
       "merchantName": "Apple Boylston Street",
       "lat": 42.34904299999999,
       "lng": -71.08251249999999,
-      "avgBill": 104.25
+      "avgBill": "104.25"
     },
     "57cf75cea73e494d8675f0b3": {
       "merchantName": "Burlington Coat Factory",
       "lat": 42.42910689999999,
       "lng": -71.0135423,
-      "avgBill": 98.2
+      "avgBill": "98.20"
     },
     "57cf75cea73e494d8675f0be": {
       "merchantName": "Eastern Mountain Sports",
       "lat": 42.37306450000001,
       "lng": -71.1216529,
-      "avgBill": 115
+      "avgBill": "115.00"
     },
     "57cf75cea73e494d8675f0c5": {
       "merchantName": "Zara",
       "lat": 42.3498879,
       "lng": -71.0807276,
-      "avgBill": 130.0909090909091
+      "avgBill": "130.09"
     },
     "57cf75cea73e494d8675f0c7": {
       "merchantName": "Vineyard Vines",
       "lat": 42.3484232,
       "lng": -71.0823369,
-      "avgBill": 68
+      "avgBill": "68.00"
     },
     "57cf75cea73e494d8675f0d0": {
       "merchantName": "Marshalls",
       "lat": 42.4792545,
       "lng": -71.0249912,
-      "avgBill": 98.12375
+      "avgBill": "98.12"
     },
     "57cf75cea73e494d8675f0da": {
       "merchantName": "Sprint Store",
       "lat": 42.35119890000001,
       "lng": -71.0727619,
-      "avgBill": 136.7
+      "avgBill": "136.70"
     },
     "57cf75cea73e494d8675f0e0": {
       "merchantName": "Eastern Mountain Sports",
       "lat": 42.3523814,
       "lng": -71.1223249,
-      "avgBill": 101.6470588235294
+      "avgBill": "101.65"
     },
     "57cf75cea73e494d8675f0f0": {
       "merchantName": "REI",
       "lat": 42.34486210000001,
       "lng": -71.1024967,
-      "avgBill": 97.5
+      "avgBill": "97.50"
     },
     "57cf75cea73e494d8675f0f1": {
       "merchantName": "Urban Outfitters",
       "lat": 42.348262,
       "lng": -71.088082,
-      "avgBill": 65
+      "avgBill": "65.00"
     }
   }
 }

@@ -37,6 +37,7 @@ app.use(function (req, res, next) {
 
 app.post('/merchants', function(request, response) {
     response.send(merchantData);
+
 //    var body = request.body;
 //    var latitude = body.latitude;
 //    var longitude = body.longitude;
@@ -69,31 +70,6 @@ app.post('/customers', function(request, response) {
 //        });
 //    }, function(failure) {
 //
-//    });
-
-//    var body = request.body;
-//    var latitude = body.latitude;
-//    var longitude = body.longitude;
-//
-//    dataCollector.getMerchantInfo(latitude, longitude).then(function(merchantInfo) {
-//        console.log(merchantInfo);
-//        merchantInformation = merchantInfo;
-//        var eatData = merchantInformation.eat;
-//        var outData = merchantInformation.out;
-//        var shopData = merchantInformation.shop;
-//
-//        setCustomerMerchantAverage(eatData).then(function(success) {
-//
-//        }, function(failure) {
-//
-//        });
-//
-//
-//
-//
-//
-//    }, function(error) {
-//        console.log(error);
 //    });
 
 
@@ -199,7 +175,7 @@ function calculateCustomerAverageBillAtMerchant(merchantId) {
             }
 
             console.log(avg);
-            deferred.resolve(avg);
+            deferred.resolve(avg.toFixed(2));
         } else {
             deferred.reject(error);
         }

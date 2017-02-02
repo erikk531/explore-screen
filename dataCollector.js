@@ -214,7 +214,7 @@ function calculateMerchantAverageBill(merchantId) {
             });
 
             var avg = totalAmount / quantity;
-            deferred.resolve(avg);
+            deferred.resolve(avg.toFixed(2));
         } else {
             deferred.reject(error);
         }
