@@ -1,6 +1,7 @@
 var express = require('express');
 var bodyParser = require('body-parser');
 var dataCollector = require('./dataCollector');
+var merchantData = require('./merchantData');
 var app = express();
 app.use(bodyParser.json());
 
@@ -25,15 +26,16 @@ app.use(function (req, res, next) {
 });
 
 app.post('/merchants', function(request, response) {
-    var body = request.body;
-    var latitude = body.latitude;
-    var longitude = body.longitude;
-
-    dataCollector.getMerchantInfo(latitude, longitude).then(function(merchantInfo) {
-        response.send(merchantInfo);
-    }, function(error) {
-        console.log(error);
-    });
+    response.send(merchantData);
+//    var body = request.body;
+//    var latitude = body.latitude;
+//    var longitude = body.longitude;
+//
+//    dataCollector.getMerchantInfo(latitude, longitude).then(function(merchantInfo) {
+//        response.send(merchantInfo);
+//    }, function(error) {
+//        console.log(error);
+//    });
 });
 
 app.get('/merchants/id', function(request, response) {
