@@ -1,5 +1,5 @@
 {
-  "eat": {
+  "fast-food-15": {
     "57cf75cea73e494d8675f043": {
       "merchantName": "Whole Foods Market",
       "lat": 42.3620488,
@@ -253,7 +253,7 @@
       "avgBill": "95.10"
     }
   },
-  "out": {
+  "bar-15": {
     "57cf75cea73e494d8675f031": {
       "merchantName": "Beacon Hill Hotel & Bistro",
       "lat": 42.3569241,
@@ -561,7 +561,7 @@
       "avgBill": "156.00"
     }
   },
-  "shop": {
+  "shop-15": {
     "57cf75cea73e494d8675f045": {
       "merchantName": "Target",
       "lat": 42.36464629999999,
